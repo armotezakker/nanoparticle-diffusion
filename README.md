@@ -12,6 +12,11 @@ autocorrelation, and machine learning classification, with direct relevance
 to X-ray photon correlation spectroscopy (XPCS) experiments on cellulose
 nanocrystal and nanofiber suspensions in polymer matrices.
 
+# Data
+the full dataset is archived on Zenodo:
+https://doi.org/10.5281/zenodo.19554421
+
+
 ---
 
 ## Repository structure
