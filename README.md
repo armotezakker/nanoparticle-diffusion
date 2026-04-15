@@ -109,9 +109,8 @@ $\boldsymbol{\xi}(t)$ is Gaussian white noise.
 1. Clone the repository
 2. `cd nanoparticle-diffusion`
 3. `pip install -r requirements.txt`
-4. `cd .. && python generate_trajectories.py`   (generates `data/`, approximately 10 min)
-5. `cd nanoparticle-diffusion && jupyter notebook`
-6. Run notebooks 01 through 06 in order.
+4. `cd nanoparticle-diffusion && jupyter notebook`
+5. Run notebooks 01 through 06 in order.
 
 ---
 
